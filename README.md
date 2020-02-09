@@ -1,5 +1,5 @@
-adding a new line
+ a new
 
-adding another line
+another
 
-adding 3rd line
+3rd
